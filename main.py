@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 def main(msg):
-    //Another comment pushed from IDE Yeet
-    //One more comment
-    // Adding a different comment.
-    //Print a message
-
+    //NO longed need comments here
     print(msg)
+def secondary():
+    print("New function")
+
 main("Hello People")
