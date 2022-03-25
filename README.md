@@ -1,4 +1,4 @@
 # pythonProject
 This is an example project to demonstrate the use of git on terminal.
 
-Made some changes here.
+Made some changes here.Some more changes.
